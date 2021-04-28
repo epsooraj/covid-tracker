@@ -9,6 +9,9 @@
         >https://covid19api.com</a
       >
     </p>
+    <a href="https://github.com/epsooraj/covid-tracker" target="_blank">
+      <i class="fab fa-github text-3xl md:text-5xl font-bold mt-3"></i>
+    </a>
   </header>
 </template>
 
